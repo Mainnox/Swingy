@@ -25,6 +25,7 @@ public class ConsoleStart {
                         break;
                     default:
                         System.out.println(input + " is not a option!");
+                        
                 }
             }
         }
