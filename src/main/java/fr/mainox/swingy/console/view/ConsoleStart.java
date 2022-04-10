@@ -6,7 +6,6 @@ import java.io.InputStreamReader;
 
 public class ConsoleStart {
     //Put launch in the constructor to see if it's beautiful or not
-    
     public static void launchconsole() {
         System.out.println("\n\nWelcome to the K-Game\n\nBe prepare to play to the most impresive text-based RPG of all time!");
         try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
